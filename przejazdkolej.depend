@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1795609674 source:c:\users\admin\desktop\f.g4tp\przejazdkolej\main.cpp
+	<iostream>
+	<string>
+	<thread>
+	<chrono>
+
